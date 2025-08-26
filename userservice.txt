@@ -1,1 +1,3 @@
 get input from user...
+
+create an avatar
